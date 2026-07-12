@@ -1,6 +1,6 @@
 # Hi, I'm Abdullojon 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=PHP+%2F+Laravel+Developer;APIs%2C+CRM+and+Business+Automation;Telegram+Bots+%26+WordPress;AI+Integrations+for+Real+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=PHP+%2F+Laravel+Developer;Python+%2F+Django+Developer;Flutter+%2F+Dart+Developer;APIs%2C+CRM+and+Business+Automation;Telegram+Bots+%26+WordPress;AI+Integrations+for+Real+Products)](https://git.io/typing-svg)
 
 <p>
   I build reliable web applications, integrations, automation tools, and business systems.<br>
@@ -14,6 +14,8 @@
 ## 👨‍💻 About Me
 
 - 🐘 I develop backend applications with **PHP and Laravel**.
+- 🐍 I build backend services and web applications with **Python and Django**.
+- 📱 I develop cross-platform mobile applications with **Flutter and Dart**.
 - 🔌 I connect services through **REST APIs, webhooks, and third-party integrations**.
 - 🤖 I build **Telegram bots**, automation tools, and **AI-powered features**.
 - 🧩 I customize **WordPress**, CRM systems, admin panels, and existing websites.
@@ -28,6 +30,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -35,6 +38,8 @@
 ### Backend, CMS & Integrations
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
