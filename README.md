@@ -1,17 +1,19 @@
-# PHP/Laravel Backend Developer
+# Разработчик серверных приложений PHP/Laravel
 
-## PHP/Laravel Backend Developer building APIs, business systems, Telegram integrations and secure web applications.
+Разрабатываю API, бизнес-системы, Telegram-интеграции и безопасные веб-приложения.
 
-I design and build backend systems with a focus on:
+## Основные направления
 
-- REST APIs and webhook integrations;
-- business logic, orders, payments and user accounts;
-- Laravel applications with clean, maintainable architecture;
-- Telegram bots and support automation;
-- authentication, authorization, validation and secure data handling;
-- database design, migrations, testing and Docker-based development.
+- REST API и интеграции через webhooks;
+- бизнес-логика, заказы, платежи и пользовательские аккаунты;
+- Laravel-приложения с понятной и поддерживаемой архитектурой;
+- Telegram-боты и автоматизация поддержки;
+- аутентификация, авторизация и валидация данных;
+- проектирование баз данных и миграций;
+- автоматическое тестирование;
+- разработка и локальный запуск через Docker.
 
-## Core stack
+## Основной стек
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -23,56 +25,54 @@ I design and build backend systems with a focus on:
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3C873A?style=for-the-badge&logo=php&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## Selected backend projects
+## Избранные backend-проекты
 
-### [npokcu — Laravel commerce backend](https://github.com/axfri/npokcu)
+### [npokcu — Laravel backend цифрового магазина](https://github.com/axfri/npokcu)
 
-Laravel application for a digital product catalog and order workflow.
+Laravel-приложение для каталога цифровых товаров и оформления заказов.
 
-- catalog, categories, products and duration options;
-- orders, order items and payment transactions;
-- user accounts, guest checkout and email verification;
-- admin panel with authorization policies and middleware;
-- private file delivery and download audit logs;
-- migrations, factories and feature tests.
+- категории, товары и варианты срока действия;
+- заказы, позиции заказа и платёжные операции;
+- регистрация, авторизация и гостевое оформление заказа;
+- подтверждение электронной почты и восстановление пароля;
+- административная панель;
+- middleware и policies для разграничения доступа;
+- приватная выдача файлов и журналирование скачиваний;
+- миграции, фабрики, seeders и feature-тесты.
 
-### [supportchat — support system with Telegram integration](https://github.com/axfri/supportchat)
+### [supportchat — система поддержки с интеграцией Telegram](https://github.com/axfri/supportchat)
 
-Application for customer support conversations, staff management and Telegram message delivery.
+Система поддержки пользователей сайта и Telegram-диалогов.
 
-- PHP backend with SQLite persistence;
-- admin and staff workflows;
-- Telegram webhook and polling integration;
-- conversation, message and log APIs;
-- environment-based configuration and protected storage.
+- PHP backend и SQLite;
+- панель операторов;
+- роли администратора и менеджера;
+- веб-чат и Telegram webhook/polling;
+- отправка сообщений и файлов;
+- статусы диалогов и счётчики непрочитанных сообщений;
+- журналирование операций Telegram;
+- управление сотрудниками и историей баланса;
+- JSON API для веб-интерфейса.
 
-### [hakaton_ai — document question-answering API](https://github.com/axfri/hakaton_ai)
+## Принципы разработки
 
-FastAPI service for searching uploaded documents and maintaining chat sessions.
+- Контроллеры и обработчики должны оставаться тонкими, а бизнес-логика — находиться в сервисах.
+- Входные данные необходимо проверять на границах системы.
+- Секреты нельзя хранить в исходном коде.
+- Структура базы данных должна изменяться через миграции.
+- Критические бизнес-сценарии должны покрываться автоматическими тестами.
+- Архитектурные решения, ограничения и риски должны быть описаны в документации.
+- Безопасность, совместимость и предсказуемое поведение важнее лишней сложности.
 
-- typed request and response schemas;
-- document parsing and text retrieval;
-- session history and message storage;
-- static frontend served by the API.
+## Интерес к информационной безопасности
 
-## Engineering principles
+Интересуюсь безопасностью веб-приложений, защищённой аутентификацией, проверкой webhook-запросов, контролем доступа, управлением секретами и аудитом backend-систем.
 
-- Keep controllers and handlers thin; place business rules in services.
-- Validate input at system boundaries and fail safely.
-- Keep secrets out of source control and configuration in environment variables.
-- Prefer explicit database migrations and reproducible local setup.
-- Cover critical business flows with automated tests.
-- Document trade-offs, limitations and security assumptions.
-
-## Security interests
-
-I am interested in application security, secure authentication flows, webhook validation, access control, secret management and security review of backend systems.
-
-## Contact
+## Контакты
 
 - Telegram: [@axfri](https://t.me/axfri)
 - Email: [abdullojon490@gmail.com](mailto:abdullojon490@gmail.com)
 - GitHub: [github.com/axfri](https://github.com/axfri)
 
-Open to PHP/Laravel backend roles, freelance projects and long-term engineering work.
+Открыт к работе над PHP/Laravel backend-проектами, freelance-задачам и долгосрочному сотрудничеству.
 
